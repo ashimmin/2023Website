@@ -16,14 +16,7 @@ export default function Home() {
         <div className="">Image</div>
         <div className="">
           <div className="">
-            Cupidatat veniam voluptate laboris Lorem commodo veniam mollit ad
-            consectetur officia laborum et laborum. Adipisicing excepteur do
-            esse incididunt. Elit ut sit aliqua. Duis eiusmod irure ipsum esse
-            commodo duis voluptate non ad minim aliquip do Lorem. Amet tempor
-            voluptate aute culpa ipsum voluptate sint duis fugiat nisi amet
-            dolor nostrud ea. Velit sunt ipsum officia cupidatat consequat
-            excepteur exercitation est aliqua. Duis minim magna in esse laborum
-            velit nostrud fugiat. Duis cillum excepteur dolor mollit officia.
+          I feel most creative when using design as the foundation to build, explore, and experiment with other unrelated domains. I am influenced by aspects of play, craftsmanship, and inspiring wonder when creating, and actively try to embody those traits in myself.
           </div>
           <div className="">Work History</div>
           <div className="">
