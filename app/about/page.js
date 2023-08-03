@@ -18,7 +18,7 @@ export default function Home() {
           <div className="">
           I feel most creative when using design as the foundation to build, explore, and experiment with other unrelated domains. I am influenced by aspects of play, craftsmanship, and inspiring wonder when creating, and actively try to embody those traits in myself.
           </div>
-          <div className="">Work History</div>
+          <div className="">Work History!</div>
           <div className="">
             <ul>
               {timelineData.map((item, i) => (
