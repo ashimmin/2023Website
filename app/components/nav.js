@@ -23,7 +23,7 @@ export default function Home() {
           <Link href={item.link}>
             <li
               key={item.i}
-              className="uppercase font-black text-[#333341] text-opacity-50 hover:text-[#333341] hover:al-khoud.otf md:text-nav"
+              className="uppercase font-black text-[#333341] text-opacity-50 hover:text-[#333341] hover:public/fonts/Al-Khoud-Regular.otf md:text-nav"
             >
               {item.title}
             </li>
