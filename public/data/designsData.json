@@ -1,51 +1,219 @@
 [
   {
-      title: "Ford",
-      link: "/",
-      description: "Voluptate excepteur reprehenderit commodo. Minim dolor officia adipisicing minim cillum. Commodo Lorem et quis ipsum. Sit consequat aute duis Lorem commodo nisi elit sint irure. Nisi aliquip commodo elit dolore nostrud esse quis sit ea ea voluptate quis ipsum. Proident eiusmod nostrud fugiat est eiusmod. Ex dolor mollit consequat ut consectetur irure id minim ut sint cillum laborum veniam cupidatat. Excepteur laborum elit deserunt deserunt ullamco aute duis aute dolore.",
-      image: "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
-      skills: "",
+    "title": "Ford",
+    "link": "/",
+    "description": "Voluptate excepteur reprehenderit commodo. Minim dolor officia adipisicing minim cillum. Commodo Lorem et quis ipsum. Sit consequat aute duis Lorem commodo nisi elit sint irure. Nisi aliquip commodo elit dolore nostrud esse quis sit ea ea voluptate quis ipsum. Proident eiusmod nostrud fugiat est eiusmod. Ex dolor mollit consequat ut consectetur irure id minim ut sint cillum laborum veniam cupidatat. Excepteur laborum elit deserunt deserunt ullamco aute duis aute dolore.",
+    "images": [
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      }
+    ],
+    "skills": [
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      }
+    ],
+    "slug": "ford"
   },
   {
-      title: "Cisco",
-      link: "/",
-      description: "d",
-      image: "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
-      skills: "",
+    "title": "Cisco",
+    "link": "/",
+    "description": "d",
+    "images": [
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      }
+    ],
+    "skills": [
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      }
+    ],
+    "slug": "cisco"
   },
   {
-      title: "Blend",
-      link: "/",
-      description: "d",
-      image: "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
-      skills: "",
+    "title": "Blend",
+    "link": "/",
+    "description": "d",
+    "images": [
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      }
+    ],
+    "skills": [
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      }
+    ],
+    "slug": "blend"
   },
   {
-      title: "Reduct",
-      link: "/",
-      description: "d",
-      image: "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
-      skills: "",
+    "title": "Reduct",
+    "link": "/",
+    "description": "d",
+    "images": [
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      }
+    ],
+    "skills": [
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      }
+    ],
+    "slug": "reduct"
   },
   {
-      title: "Thesis",
-      link: "/",
-      description: "d",
-      image: "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
-      skills: "",
+    "title": "Thesis",
+    "link": "/",
+    "description": "d",
+    "images": [
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      }
+    ],
+    "skills": [
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      }
+    ],
+    "slug": "thesis"
   },
   {
-      title: "Fuse Project",
-      link: "/",
-      description: "d",
-      image: "/public/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
-      skills: "",
+    "title": "Fuse Project",
+    "link": "/",
+    "description": "d",
+    "images": [
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      }
+    ],
+    "skills": [
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      }
+    ],
+    "slug": "fuse-project"
   },
   {
-      title: "Infographic",
-      link: "/",
-      description: "d",
-      image: "/public/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
-      skills: "",
-  },
+    "title": "Infographic",
+    "link": "/",
+    "description": "d",
+    "images": [
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      },
+      {
+        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "alt": "Example Alt Text"
+      }
+    ],
+    "skills": [
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      },
+      {
+        "text": "My Skill"
+      }
+    ],
+    "slug": "infographic"
+  }
 ]
