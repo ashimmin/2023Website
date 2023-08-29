@@ -7,7 +7,7 @@ const designsData = [
     title: "Ford",
     link: "/ford",
     description:
-      "Voluptate excepteur reprehenderit commodo. Minim dolor officia adipisicing minim cillum. Commodo Lorem et quis ipsum. Sit consequat aute duis Lorem commodo nisi elit sint irure. Nisi aliquip commodo elit dolore nostrud esse quis sit ea ea voluptate quis ipsum. Proident eiusmod nostrud fugiat est eiusmod. Ex dolor mollit consequat ut consectetur irure id minim ut sint cillum laborum veniam cupidatat. Excepteur laborum elit deserunt deserunt ullamco aute duis aute dolore.",
+      "An unique approach to assisted highway driving experiences",
     image:
       "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
     skills:
@@ -16,8 +16,12 @@ const designsData = [
   {
     title: "Cisco",
     link: "/cisco",
+<<<<<<< HEAD
     description:
       "Cisco's collaboration design team is tackling the future of business-place communication. Designing for telepresence, conferencing, and phone systems were the primary responsibility of this team at Cisco. We aspired to provide the best experience for enterprise collaboration and making the ease of sharing ideas effortless.",
+=======
+    description: "Simplifying certificate renewal for on-site server admins",
+>>>>>>> main
     image:
       "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
     skills: "VISUAL DESIGN, INTERACTION DESIGN ",
@@ -25,8 +29,12 @@ const designsData = [
   {
     title: "Blend",
     link: "/blend",
+<<<<<<< HEAD
     description:
       "Blend's mission is to bring simplicity and transparency to consumer lending.",
+=======
+    description: "Demystifying intricate compliance and mortgage application processes for new hires | OKR dashboard to help employees align with higher level corporate objectives.",
+>>>>>>> main
     image:
       "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
     skills: "PRODUCT DESIGN, UX DESIGN DATA, VISUALIZATION",
@@ -34,8 +42,12 @@ const designsData = [
   {
     title: "Reduct",
     link: "/reduct",
+<<<<<<< HEAD
     description:
       "Reduct.Video is a video editing & transcription startup in San Francisco. With Reduct, editing video is as easy as writing a text document. Highlight, cut, and edit text to watch as your video automatically does the same to the video.",
+=======
+    description: "What could the future of research transcription look like? | Getting to the project page more efficiently",
+>>>>>>> main
     image:
       "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
     skills: "VISUAL DESIGN, INTERACTION DESIGN, PRODUCT DESIGN",
@@ -43,8 +55,12 @@ const designsData = [
   {
     title: "Thesis",
     link: "/thesis",
+<<<<<<< HEAD
     description:
       "Interfaces For Learning was a year long research project investigating the ways we learn online. There is an abundance of online resources for learning these days, but they often blur between education and entertainment. In this year-long study, I surveyed existing literature on personal knowledge bases, information storage techniques, and learning theory; interviewed potential users and experts on the subject; created numerous prototypes, both physical and digital; and collaborated directly with Alcamy.org, an online learning platform founded in 2016, to improve their system based on my research insights and experiments.",
+=======
+    description: "Contemporary interface patterns for learning anything online",
+>>>>>>> main
     image:
       "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
     skills: "INTERACTION, DESIGN VISUAL, DESIGN RESEARCH, Prototyping",
@@ -61,8 +77,12 @@ const designsData = [
   {
     title: "Infographic",
     link: "/roadtrip",
+<<<<<<< HEAD
     description:
       "Week-long project to make an infographic describing what interaction design is to non-interaction designers. Made during my Sophomore year of college.",
+=======
+    description: "“What’s interaction design?” “Well, it’s kind of like going on a roadtrip…”",
+>>>>>>> main
     image:
       "/public/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
     skills: "VISUAL DESIGN, DATA VISUALIZATION, ILLUSTRATION",
