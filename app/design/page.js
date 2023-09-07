@@ -75,31 +75,24 @@ export default function Home() {
     <main className="p-20">
       <Nav />{" "}
       <div className="py-20 grid grid-cols-1 sm:grid-cols-2 gap-4">
-        <div className="">
-          <ul>
-            {designsData.map((item, i) => (
-              <li
-                key={item.i}
-                className="text-[#333341] text-opacity-50 hover:text-[#333341]"
-              >
-                <Link href={`design/${item.link}`}>{item.title}</Link>
-              </li>
-            ))}
-          </ul>
-        </div>
-        <div className="">
+        <div className="relative">
           {designsData.map((item, i) => (
-            <div key={item.i} className="py-10">
-              {" "}
-              <div className="rounded">
-                <Image
-                  src={`${item.image}`}
-                  alt={item.title}
-                  width={500}
-                  height={500}
-                />
+            <div key={item.i} className="relative">
+              <div className=" text-[#333341] text-opacity-50 hover:text-[#333341]">
+                <Link href={`design/${item.link}`}>{item.title}</Link>
               </div>
-              <div className="text-base">{item.description}</div>
+
+              <div className="absolute top-0 left-0 invisible opacity-0 transition-opacity duration-300 ease-in-out group-hover:opacity-100">
+                <div className="rounded">
+                  <Image
+                    src={`${item.image}`}
+                    alt={item.title}
+                    width={500}
+                    height={500}
+                  />
+                </div>
+                <div className="text-base">{item.description}</div>
+              </div>
             </div>
           ))}
         </div>
