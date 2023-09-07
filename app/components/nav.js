@@ -2,10 +2,10 @@ import Image from "next/image";
 import Link from "next/link";
 
 const navData = [
-  { title: "About", link: "about" },
-  { title: "Design", link: "design" },
-  { title: "Ceramics", link: "ceramics" },
-  { title: "Resume", link: "resume" },
+  { title: "About", link: "/about" },
+  { title: "Design", link: "/design" },
+  { title: "Ceramics", link: "/ceramics" },
+  { title: "Resume", link: "/resume" },
 ];
 
 export default function Home() {
@@ -17,7 +17,7 @@ export default function Home() {
         </Link>
       </div>
 
-      <ul className="grid grid-cols-4 ">
+      <ul className="flex justify-between items-center">
         {/* Note: Fix full width */}
         {navData.map((item, i) => (
           <Link href={item.link}>
