@@ -33,7 +33,7 @@ export default function BlogPost({ post }) {
                 <div className="p-0 m-0">
                   {post.skills.map((item, i) => (
                     <div key={item.i} className="">
-                      List tags
+                      {item.text}
                     </div>
                   ))}
                 </div>
@@ -48,12 +48,17 @@ export default function BlogPost({ post }) {
                 key={item.i}
                 className="flex items-center justify-center h-screen pb-20"
               >
-                <Image
-                  src={`${item.source}`}
-                  alt={item.alt}
-                  width={500}
-                  height={500}
-                />
+                <div className="">
+                  <div className="">
+                    <Image
+                      src={`${item.source}`}
+                      alt={item.alt}
+                      width={500}
+                      height={500}
+                    />
+                  </div>
+                  <div className="inline-block">{item.alt}</div>
+                </div>
               </div>
             ))}
           </div>

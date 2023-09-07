@@ -64,30 +64,30 @@
   {
     "title": "Blend",
     "link": "/",
-    "description": "d",
+    "description": "Reduct. Video is a video editing & transcription startup in San Francisco. With Reduct, editing video is as easy as writing a text document. Highlight, cut, and edit text to watch as your video automatically does the same to the video.",
     "images": [
       {
-        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "source": "/assets/design/blend/beforeafter-ac4cf88d6f18658613278f8387ddd3f15483b6f63622126ec48547e697c68901.png",
         "alt": "Example Alt Text"
       },
       {
-        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "source": "/assets/design/cisco/disclosures-a3ebe0ab7ba59f4056b1b5ff19e3b607fd5856c7912eb22e33a3f7462ece7c2a.png",
         "alt": "Example Alt Text"
       },
       {
-        "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",
+        "source": "/assets/design/cisco/disclosurespaper-08121542382032718c23886236600d646a529cdb5efaafe833d1b7f5b22293d3.jpg",
         "alt": "Example Alt Text"
       }
     ],
     "skills": [
       {
-        "text": "My Skill"
+        "text": "Visual Design"
       },
       {
-        "text": "My Skill"
+        "text": "Prototyping"
       },
       {
-        "text": "My Skill"
+        "text": "Illustration"
       }
     ],
     "slug": "blend"
@@ -95,7 +95,7 @@
   {
     "title": "Reduct",
     "link": "/",
-    "description": "d",
+    "description": "Reduct. Video is a video editing & transcription startup in San Francisco. With Reduct, editing video is as easy as writing a text document. Highlight, cut, and edit text to watch as your video automatically does the same to the video.",
     "images": [
       {
         "source": "/assets/design/cisco/cisc5-85ceefc9d45f0e54aa610edb5bf476cef73edbc291c9b64fae2405da3f1d4820.png",

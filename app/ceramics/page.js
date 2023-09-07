@@ -106,23 +106,21 @@ export default function Home() {
             >
               {" "}
               <div className="col-span-1">
-                <ul>
-                  {/* FIX @gndclouds look at focus+group */}
-                  {ceramicsData.map((item, i) => (
-                    <Link href={`/ceramics/#${item.title}`}>
-                      <div key={item.i} className="group relative transition">
-                        <p className="transition duration-500 opacity-30 group-hover:opacity-100 group-hover:text-[#333341]">
-                          {item.title}
+                {/* FIX @gndclouds look at focus+group */}
+                {ceramicsData.map((item, i) => (
+                  <Link href={`/ceramics/#${item.title}`}>
+                    <div key={item.i} className="group relative transition">
+                      <p className="transition duration-500 opacity-30 group-hover:opacity-100 group-hover:text-[#333341]">
+                        {item.title}
+                      </p>
+                      <div className="transition ease-in opacity-0 group-hover:opacity-100 absolute inset-0 flex items-center justify-center">
+                        <p className="group-hover:text-[#333341]">
+                          — {item.dates}
                         </p>
-                        <div className="transition ease-in opacity-0 group-hover:opacity-100 absolute inset-0 flex items-center justify-center">
-                          <p className="group-hover:text-[#333341]">
-                            — {item.dates}
-                          </p>
-                        </div>
                       </div>
-                    </Link>
-                  ))}
-                </ul>
+                    </div>
+                  </Link>
+                ))}
               </div>
               <div id={item.title} className="col-span-1">
                 {/* <div id={item.title}>{item.title}s</div> */}

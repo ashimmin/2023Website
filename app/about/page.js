@@ -41,16 +41,14 @@ export default function Home() {
           </div>
           <div className="">Work History!</div>
           <div className="">
-            <ul>
-              {timelineData.map((item, i) => (
-                <li key={item.i} className="pt-9">
-                  <div className="opacity-30"> {item.date}</div>
+            {timelineData.map((item, i) => (
+              <div key={item.i} className="pt-9">
+                <div className="opacity-30"> {item.date}</div>
 
-                  <div className=""> {item.company}</div>
-                  <div className="font-bold"> {item.jobTitle}</div>
-                </li>
-              ))}
-            </ul>
+                <div className=""> {item.company}</div>
+                <div className="font-bold"> {item.jobTitle}</div>
+              </div>
+            ))}
           </div>
         </div>
       </div>

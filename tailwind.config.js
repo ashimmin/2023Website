@@ -8,7 +8,7 @@ module.exports = {
   theme: {
     extend: {
       fontSize: {
-        nav: "48px",
+        nav: "36px",
         base: "18px",
       },
     },
